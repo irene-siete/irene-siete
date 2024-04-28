@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1 align="center">Hello , I'm Irene🪳</h1>
-<h3 align="center">A passionate math student and cybersecurity engineer from Spain</h3>
+<h3 align="center">A passionate math student and cybersecurity tecnician from Spain</h3>
 
 
 
