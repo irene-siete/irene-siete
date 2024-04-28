@@ -1,9 +1,16 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Separated Icons</title>
 <style>
   img {
     margin-right: 10px; /* Adjust the margin-right value to increase or decrease the separation between icons */
   }
-<style>
+</style>
+</head>
+<body>
 
 <h1 align="center">Hello , I'm Irene🪳</h1>
 <h3 align="center">A passionate math student and cybersecurity engineer from Spain</h3>
