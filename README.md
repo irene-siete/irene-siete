@@ -3,10 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Separated Icons</title>
 <style>
   a {
-    margin-right: 10px; /* Adjust the margin-right value to increase or decrease the separation between icons */
+    margin-right: 10px;
   }
 </style>
 </head>
