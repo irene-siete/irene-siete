@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Separated Icons</title>
+<style>
+  a {
+    margin-right: 10px; /* Adjust the margin-right value to increase or decrease the separation between icons */
+  }
+</style>
+</head>
+<body>
 <h1 align="center">Hello , I'm Irene🪳</h1>
 <h3 align="center">A passionate math student and cybersecurity engineer from Spain</h3>
 
@@ -11,3 +24,5 @@
   <a href="https://sectigostore.com/blog/what-is-assembly-language/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="html5" width="40" height="40"/> </a>
   
+</body>
+</html>
