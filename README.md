@@ -3,11 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-  a {
-    margin-right: 10px;
-  }
-</style>
 </head>
 <body>
 <h1 align="center">Hello , I'm Irene🪳</h1>
